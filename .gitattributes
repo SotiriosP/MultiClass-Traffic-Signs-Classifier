@@ -1,0 +1,2 @@
+# Specifies that all files with the .ipynb extension should be recognized as Python code by GitHub's Linguist language detection.
+*.ipynb linguist-language=Python
